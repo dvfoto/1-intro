@@ -1,0 +1,26 @@
+{
+  "name": "1-intro",
+  "version": "1.0.0",
+  "description": "Blevyzgos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvfoto/1-intro.git"
+  },
+  "keywords": [
+    "html"
+  ],
+  "author": "Deivis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvfoto/1-intro/issues"
+  },
+  "homepage": "https://github.com/dvfoto/1-intro#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
